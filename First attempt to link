@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>HTML Images</title>
+</head>
+
+<body>
+	<img src="./Pictures/Abstract Art Image.jpeg"><br>
+	<a href="First HTML">First attempt to link pages
+</body>
+</html>
